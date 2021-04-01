@@ -1,2 +1,2 @@
-# AGB-Source
-Source code for my bot
+# April Fools
+Fuck you.
